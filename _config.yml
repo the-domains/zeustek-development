@@ -12,3 +12,7 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: Zeustek Development
+author:
+  name: Bryan Mendelson
+  email: webmaster@zeustekdev.com
+  url: zeustekdev.com
