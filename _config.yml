@@ -6,9 +6,9 @@ color:
   saturation: 0.027944490779191256
   rhythmicContrast: 0.8676500220317394
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Zeustek Development
